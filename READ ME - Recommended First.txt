@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Recommended:
 
 	** After downloading. This 'Folder' must be designated placed in (mentioned below) in order for the 'DOH-Frontliners.exe' to identify its database. **
 	** 'C' Driver Letter should also be followed. **
 
+=======
+Recommended:
+
+	** After downloading. This 'Folder' must be designated placed in (mentioned below) in order for the 'DOH-Frontliners.exe' to identify its database. **
+	** 'C' Driver Letter should also be followed. **
+
+>>>>>>> 59c0580 (Your commit message here)
 File Path --->	C:\Frontliners
